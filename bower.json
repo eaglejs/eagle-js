@@ -1,0 +1,26 @@
+{
+  "name": "eaglejs",
+  "description": "",
+  "main": "index.html",
+  "authors": [
+    "Joshua S. Eagle"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/eaglejs/eaglejsMarionette",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "jquery": "^3.1.0",
+    "backbone.marionette": "marionette#^2.4.7",
+    "requirejs": "^2.2.0",
+    "underscore": "^1.8.3",
+    "font-awesome": "fontawesome#^4.6.3"
+  }
+}
