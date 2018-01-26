@@ -27,7 +27,5 @@ define(['jquery', 'underscore', 'backbone', 'marionette', 'bootstrap'], function
 		return false;
 	});
 
-	Backbone.history.loadUrl(Backbone.history.getFragment());
-
 	return App;
 });
